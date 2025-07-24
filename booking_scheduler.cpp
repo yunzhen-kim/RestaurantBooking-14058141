@@ -37,10 +37,10 @@ public:
         }
 
         // 일요일에는 시스템을 오픈하지 않는다.
-        //time_t now = getNow();
-        //if (getDayOfWeek(now) == "Sunday") {
-        //    throw std::runtime_error("Booking system is not available on sunday");
-        //}
+        time_t now = getNow();
+        if (getDayOfWeek(now) == "Sunday") {
+            throw std::runtime_error("Booking system is not available on sunday");
+        }
 
         schedules.push_back(schedule);
 
@@ -65,9 +65,9 @@ public:
         this->mailSender = mailSender;
     }
 
-    //virtual time_t getNow() {
-    //    return time(nullptr);
-    //}
+    virtual time_t getNow() {
+        return time(nullptr);
+    }
 
 private:
     //두 시간이 같은지 확인

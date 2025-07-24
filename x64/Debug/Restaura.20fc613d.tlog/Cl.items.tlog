@@ -4,6 +4,7 @@ C:\Users\User\source\repos\RestaurantBooking\RestaurantBooking\mail_sender.cpp;C
 C:\Users\User\source\repos\RestaurantBooking\RestaurantBooking\schedule.cpp;C:\Users\User\source\repos\RestaurantBooking\RestaurantBooking\x64\Debug\schedule.obj
 C:\Users\User\source\repos\RestaurantBooking\RestaurantBooking\sms_sender.cpp;C:\Users\User\source\repos\RestaurantBooking\RestaurantBooking\x64\Debug\sms_sender.obj
 C:\Users\User\source\repos\RestaurantBooking\RestaurantBooking\test.cpp;C:\Users\User\source\repos\RestaurantBooking\RestaurantBooking\x64\Debug\test.obj
+C:\Users\User\source\repos\RestaurantBooking\RestaurantBooking\testable_booking_scheduler.cpp;C:\Users\User\source\repos\RestaurantBooking\RestaurantBooking\x64\Debug\testable_booking_scheduler.obj
 C:\Users\User\source\repos\RestaurantBooking\RestaurantBooking\testable_mail_sender.cpp;C:\Users\User\source\repos\RestaurantBooking\RestaurantBooking\x64\Debug\testable_mail_sender.obj
 C:\Users\User\source\repos\RestaurantBooking\RestaurantBooking\testable_sms_sender.cpp;C:\Users\User\source\repos\RestaurantBooking\RestaurantBooking\x64\Debug\testable_sms_sender.obj
 C:\Users\User\source\repos\RestaurantBooking\packages\gmock.1.11.0\lib\native\src\gtest\gtest-all.cc;C:\Users\User\source\repos\RestaurantBooking\RestaurantBooking\x64\Debug\gtest-all.obj
